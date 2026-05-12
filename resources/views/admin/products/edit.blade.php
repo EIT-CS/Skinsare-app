@@ -12,6 +12,7 @@
             <a href="{{ route('admin.users') }}" class="admin-nav-link"><i class="fa fa-users"></i> Хэрэглэгчид</a>
         </nav>
     </div>
+    
     <div class="admin-content" style="flex:1">
         <div class="d-flex align-items-center gap-3 mb-4">
             <a href="{{ route('admin.products') }}" class="btn btn-sm btn-outline-secondary"><i class="fa fa-arrow-left"></i></a>

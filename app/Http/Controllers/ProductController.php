@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+
 use App\Models\Product;
 use App\Models\Tip;
 use Illuminate\Http\Request;

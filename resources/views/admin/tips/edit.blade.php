@@ -18,6 +18,7 @@
             <h4 class="fw-bold mb-0">➕ Шинэ зөвлөгөө нэмэх</h4>
         </div>
 
+        
         @if($errors->any())
         <div class="alert alert-danger rounded-3 mb-3">
             <ul class="mb-0 ps-3">@foreach($errors->all() as $e)<li>{{ $e }}</li>@endforeach</ul>
