@@ -113,6 +113,7 @@ class AdminController extends Controller
         return redirect()->route('admin.products')->with('success', 'Бүтээгдэхүүн устгагдлаа!');
     }
 
+    
     // ===== Tips CRUD =====
     public function tips()
     {

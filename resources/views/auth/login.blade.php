@@ -1,6 +1,7 @@
 ﻿@extends('layouts.app')
 @section('title', 'Нэвтрэх - GlowMN')
 
+
 @section('content')
 <section class="auth-section">
   <div class="container">
